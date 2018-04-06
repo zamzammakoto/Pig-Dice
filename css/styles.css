@@ -9,3 +9,9 @@ h1 {
 p {
   text-align: center;
 }
+.jumbotron{
+  background-image: url("../img/dice.jpeg")
+}
+.header{
+  color: red;
+}
